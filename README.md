@@ -4,7 +4,7 @@ A modern, interactive Pomodoro Timer web application built with vanilla JavaScri
 
 **⏱️ [Try the Live Demo](https://shauryaDeveloper.github.io/POMODORO_APP_SS/)**
 
----
+--
 
 ## ✨ Features
 
